@@ -1,4 +1,4 @@
-from student import calculate_average, assign_grade
+from Student import calculate_average, assign_grade
 
 # ---------------- GRADE S TEST CASES ----------------
 
